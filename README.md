@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**angeIattack/angeIattack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+${\color{#7c855c} 04:15 \space AM[Angel boy] \space whispers: \space Kaworu \space : \space it's \space ok \space Shinji \space I'll \space feed \space you}$
+${\color{#7c855c} 04:16 \space AM[Angel boy] \space whispers: \space I'll \space be \space the \space one \space forcefeeding \space you \space amazing \space food}$
 
-Here are some ideas to get you started:
+@nameless-boy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img width="668" height="524" alt="shinji" src="https://github.com/user-attachments/assets/62bf446b-ebdb-4c2c-a16f-23e1c10148b3" />
+
+${\space}$
+
+${\color{#7c855c} Sign}$ [atabukk۶ৎ](https://kiribaku.atabook.org/)
