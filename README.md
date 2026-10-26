@@ -41,8 +41,6 @@ ${\space}$
 ${\color{#7c855c} 04:15 \space AM[Angel boy] \space whispers: \space Kaworu \space : \space it's \space ok \space Shinji \space I'll \space feed \space you}$
 ${\color{#7c855c} 04:16 \space AM[Angel boy] \space whispers: \space I'll \space be \space the \space one \space forcefeeding \space you \space amazing \space food}$
 
-@nameless-boy
-
-${\color{#7c855c} Sign}$ [@nameless-boy](https://github.com/nameless-boy)
+[@nameless-boy](https://github.com/nameless-boy)
 
 </details>
