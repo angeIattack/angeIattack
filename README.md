@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angeIattack&label=PROFILE+VIEWS&color=8000ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=angeIattack&label=himes&color=8000ff&style=for-the-badge" />
 </p>
 
 ${\space}$
