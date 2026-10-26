@@ -32,13 +32,6 @@ ${ \space }$
 <details>
 <summary>${\color{#9c7976} 𝖔𝖙𝖍𝖊𝖗 \space 𝖑𝖎𝖓𝖐𝖘 }$</summary>
 
-<img width="136" height="155" alt="jjktrio" src="https://github.com/user-attachments/assets/98de83ca-2184-49bf-88b6-67e9ccd1d23e" />
-
-[𝖕](https://pronouns.cc/@dihpressed)${\color{#f0e6cd} 𝖗𝖓𝖘 \space}$. [𝖑](https://listography.com/nyanruto?m=6404158689)${\color{#c3a284} 𝖎𝖘𝖙𝖔 \space}$. [𝔃](https://zyo.lol/for.her)${\color{#6c2c53} 𝔂𝖔 \space}$. [♡](https://acidbatz.carrd.co/)${\color{#2a0f55} 𝖒𝖆𝖎𝖑 \space}$.
-
-</details>
-
-
 ${\color{#7c855c} 04:15 \space AM[Angel boy] \space whispers: \space Kaworu \space : \space it's \space ok \space Shinji \space I'll \space feed \space you}$
 ${\color{#7c855c} 04:16 \space AM[Angel boy] \space whispers: \space I'll \space be \space the \space one \space forcefeeding \space you \space amazing \space food}$
 
@@ -49,3 +42,5 @@ ${\color{#7c855c} 04:16 \space AM[Angel boy] \space whispers: \space I'll \space
 ${\space}$
 
 ${\color{#7c855c} Sign}$ [atabukk۶ৎ](https://kiribaku.atabook.org/)
+
+</details>
