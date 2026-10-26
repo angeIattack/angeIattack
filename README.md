@@ -1,7 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angeIattack&label=himes&color=8000ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=angeIattack&label=ᖳᖰ&color=3f0732&style=flat" alt="angeIattack" />
 </p>
 
 ${\space}$
