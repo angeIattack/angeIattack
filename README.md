@@ -26,7 +26,7 @@ ${ \space }$
 
 ${ \space }$
 
-<img width="601" height="642" alt="image" src="https://github.com/user-attachments/assets/a4ea0c2f-045a-43bb-8f0b-18c4c13ad113" />
+<img width="301" height="342" alt="image" src="https://github.com/user-attachments/assets/a4ea0c2f-045a-43bb-8f0b-18c4c13ad113" />
 
 ${\space}$
 
