@@ -4,8 +4,6 @@ rmking again wip.
 
 ${\space}$
 
-<img width="500" height="499" alt="image-removebg-preview (1)" src="https://github.com/user-attachments/assets/03406d96-6664-4dd7-83bd-b9777202f9ca" />
-
 <table>
 <tr>
 <td align="center" width="500">  <a href="https://kiribaku.atabook.org/">
