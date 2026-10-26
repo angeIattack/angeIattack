@@ -30,8 +30,8 @@ ${ \space }$
 
 ${\space}$
 
-${\color{#a99385} 04:15 \space AM[Angel boy] \space whispers: \space Kaworu \space : \space it's \space ok \space Shinji \space I'll \space feed \space you}$
-${\color{#a99385} 04:16 \space AM[Angel boy] \space whispers: \space I'll \space be \space the \space one \space forcefeeding \space you \space amazing \space food}$
+${\color{#635467} 04:15 \space AM[Angel boy] \space whispers: \space Kaworu \space : \space it's \space ok \space Shinji \space I'll \space feed \space you}$
+${\color{#635467} 04:16 \space AM[Angel boy] \space whispers: \space I'll \space be \space the \space one \space forcefeeding \space you \space amazing \space food}$
 
 [@nameless-boy](https://github.com/nameless-boy)
 
