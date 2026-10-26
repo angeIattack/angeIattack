@@ -9,7 +9,7 @@ ${\space}$
 <table>
 <tr>
 <td align="center" width="500">  <a href="https://kiribaku.atabook.org/">
-<img src="https://github.com/user-attachments/assets/03406d96-6664-4dd7-83bd-b9777202f9ca" width="500" height="170" alt="image-removebg-preview (1)" />
+<img src="https://github.com/user-attachments/assets/03406d96-6664-4dd7-83bd-b9777202f9ca" width="500" height="499" alt="image-removebg-preview (1)" />
 </tr>
 <tr>
 <td align="center">${\color{#eee4cb} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
