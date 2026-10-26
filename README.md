@@ -9,7 +9,7 @@ ${\color{#a99385} rmking \space again \space wip. }$
 
 <table>
 <tr>
-<td align="center" width="500">  <a href="https://github.com/whatsahearrt">
+<td align="center" width="400">  <a href="https://github.com/whatsahearrt">
 <img src="https://github.com/user-attachments/assets/03406d96-6664-4dd7-83bd-b9777202f9ca" width="400" height="399" alt="image-removebg-preview (1)" />
 </tr>
 <tr>
