@@ -1,8 +1,12 @@
 <div align="center">
 
-rmking again wip.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=angeIattack&label=PROFILE+VIEWS&color=8000ff&style=for-the-badge" />
+</p>
 
 ${\space}$
+
+rmking again wip.
 
 <table>
 <tr>
