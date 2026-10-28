@@ -3,7 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=angeIattack&label=himes&color=959d74&style=flat" alt="angeIattack" />
 </p>
 
-${\space}$
 
 ${\color{#a99385} rmking \space again \space wip. }$
 
