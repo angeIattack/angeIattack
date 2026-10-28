@@ -4,7 +4,7 @@
 </p>
 
 
-${\color{#a99385} rmking \space again \space wip. }$
+${\color{#726675} rmking \space again \space wip. }$
 
 <table>
 <tr>
@@ -21,7 +21,7 @@ ${ \space }$
 
 
 <details>
-<summary>${\color{#726675} extra }$</summary>
+<summary>${\color{#a99385} extra }$</summary>
 
 ${ \space }$
 
