@@ -13,7 +13,7 @@ ${\color{#a99385} rmking \space again \space wip. }$
 <img src="https://github.com/user-attachments/assets/03406d96-6664-4dd7-83bd-b9777202f9ca" width="400" height="399" alt="image-removebg-preview (1)" />
 </tr>
 <tr>
-<td align="center">${\color{#726675} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
+<td align="center">${\color{#959d74} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
 </tr>
 </table>
 
@@ -22,7 +22,7 @@ ${ \space }$
 
 
 <details>
-<summary>${\color{#a99385} extra }$</summary>
+<summary>${\color{#726675} extra }$</summary>
 
 ${ \space }$
 
