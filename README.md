@@ -34,8 +34,4 @@ ${\color{#635467} 04:16 \space AM[Angel boy] \space whispers: \space I'll \space
 
 [@nameless-boy](https://github.com/nameless-boy)
 
-
-<img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/af5ff9bd-0bcf-4ba3-bbe6-ca17eda479a0" />
-
-
 </details>
